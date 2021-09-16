@@ -7,10 +7,49 @@ Temperature control – does it allow you to control its temperature? This is al
 Compatibility – the car seat heater must also be compatible with your car. Installation is important, so the heater needs to fit well with the seat to avoid discomfort while driving and traveling.
 Heated seats are powered by a heating element, a long strip of material that functions as a resistor. A resistor resists the flow of electricity. When electric current flows through it, the energy is turned into heat, which flows through the seat, warming the rider.
 # Product Features
+
 FMVSS 302 flammability compliant
+
 9” x 19” heating elements included
+
 Three element trimming locations
+
 Insulation protects wires from damage
+
 Latching wire harness connectors
+
 High-temp rated element adhesive
-## 
+
+# SWOT Analysis- Strengths, Weakness and Opportunities
+
+## Strengths
+1.Low cost
+
+2.Modular Based Programs
+
+3.Easy to Modify the Temperature values
+
+4.User Friendly
+
+## Weakness
+1.It's only applicable for the countries which having lowest temperture
+
+## Opportunities
+1.It can be implemented by replacing heaterby air conditioners so that it will help in all countries
+
+# 4W's and 1'H
+
+## 4W's
+1.What: Passenger seat and heat monitoring system 
+
+2.Where: Used in Automotive Industry 
+
+3.When: At low Temperature
+
+4.Why: For being healthy
+
+## 1'H
+1.Operates by modifying the temperature
+
+
+
