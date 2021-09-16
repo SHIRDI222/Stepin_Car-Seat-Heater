@@ -18,6 +18,9 @@ showing PWM.
 4. Led Actuator shows the driver is sited 
 5. Heater will check the heater button is ON.
 6. Temp to CAN shows the value of temperature
+7. 
 ![](https://www.code-inspector.com/project/28857/score/svg)
+
 ![](https://www.code-inspector.com/project/28857/status/svg)
-([![Codacy Badge](https://app.codacy.com/project/badge/Grade/c6dcd198d1694d7185c04b145c9f93d6)](https://www.codacy.com/gh/SHIRDI222/Stepin_Car-Seat-Heater/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SHIRDI222/Stepin_Car-Seat-Heater&amp;utm_campaign=Badge_Grade)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c6dcd198d1694d7185c04b145c9f93d6)](https://www.codacy.com/gh/SHIRDI222/Stepin_Car-Seat-Heater/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SHIRDI222/Stepin_Car-Seat-Heater&amp;utm_campaign=Badge_Grade)
