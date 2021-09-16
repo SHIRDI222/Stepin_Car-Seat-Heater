@@ -20,36 +20,5 @@ Latching wire harness connectors
 
 High-temp rated element adhesive
 
-# SWOT Analysis- Strengths, Weakness and Opportunities
-
-## Strengths
-1.Low cost
-
-2.Modular Based Programs
-
-3.Easy to Modify the Temperature values
-
-4.User Friendly
-
-## Weakness
-1.It's only applicable for the countries which having lowest temperture
-
-## Opportunities
-1.It can be implemented by replacing heaterby air conditioners so that it will help in all countries
-
-# 4W's and 1'H
-
-## 4W's
-1.What: Passenger seat and heat monitoring system 
-
-2.Where: Used in Automotive Industry 
-
-3.When: At low Temperature
-
-4.Why: For being healthy
-
-## 1'H
-1.Operates by modifying the temperature
-
 
 
