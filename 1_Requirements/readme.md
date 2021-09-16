@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 A seat that heats up fast and stays warm, combating fatigue and relaxing you. The seat optimizes the place and temperature control according to the time after the heater activates. It reduces the time it takes until you feel warm and maintains comforting warmth for longer.
 # Product Features
 FMVSS 302 flammability compliant
